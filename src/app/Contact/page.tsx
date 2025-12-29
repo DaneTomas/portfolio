@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FiMail, FiMapPin, FiPhone, FiLinkedin, FiGithub, FiTwitter } from 'react-icons/fi';
+import { FiMail, FiMapPin, FiPhone, FiLinkedin, FiGithub } from 'react-icons/fi';
 
 export default function Contact() {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
