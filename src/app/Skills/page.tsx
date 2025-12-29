@@ -1,10 +1,9 @@
 'use client';
-import { SiPython, SiSanity } from 'react-icons/si';
+import { SiPython } from 'react-icons/si';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
   FiCode, 
-  FiDatabase, 
   FiLayout, 
   FiServer, 
   FiTool, 
@@ -12,24 +11,18 @@ import {
 } from 'react-icons/fi';
 import { 
   SiNextdotjs, 
-  SiTailwindcss, 
   SiCss3, 
   // SiPython, 
   SiReact, 
   SiJavascript, 
   SiTypescript, 
   SiNodedotjs, 
-  SiPostgresql, 
   SiDocker, 
   SiGit,
   SiHtml5,
-  SiFramer,
   SiExpress,
   SiDjango,
   SiGraphql,
-  SiMysql,
-  SiSupabase,
-  SiFirebase,
   SiAmazon,
   SiVercel,
   SiNetlify,
