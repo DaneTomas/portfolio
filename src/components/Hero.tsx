@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FiArrowDown, FiGithub, FiLinkedin, FiTwitter, FiMail, FiFileText } from 'react-icons/fi';
+import { FiArrowDown, FiGithub, FiLinkedin, FiMail, FiFileText } from 'react-icons/fi';
 import Link from 'next/link';
 import Image from 'next/image';
 
