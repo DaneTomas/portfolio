@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi';
+import { FiGithub, FiLinkedin } from 'react-icons/fi';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
