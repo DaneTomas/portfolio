@@ -7,7 +7,7 @@ Built with a focus on **performance**, **accessibility**, and a **fully responsi
 
 ## 🌐 Live Demo
  
-🔗 [Visit Portfolio → portfolio-sami-phi.vercel.app](https://muhammad-sami.vercel.app/)
+🔗 [Visit Portfolio ](https://portfolio-7ss3in09m-dane-tomas-projects.vercel.app/)
 
 ---
 
@@ -98,7 +98,6 @@ npm start
 
 **LinkedIn:** [https://www.linkedin.com/in/dane-tomas-6933373a1/](https://https://www.linkedin.com/in/dane-tomas-6933373a1/)
 
-**X (Twitter):** [x.com/MSAMIWASEEM1](https://x.com/MSAMIWASEEM1)
 
 ---
 
